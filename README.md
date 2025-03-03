@@ -1,5 +1,5 @@
 # CASE_STUDY_BIKE_RENTAL
-This project analyzes bike-sharing usage patterns to identify key trends and provide data-driven recommendations.
+This project analyzes bike-sharing usage patterns to identify key trends and provide data-driven recommendations. In the project I used Chat GPT 4.0 to formulate better code in R and solve encountered problems.
 
 ## 📌 Key Insights
 - 📊 **Trip duration:** Customera take significantly longer rides on average than Subscribers(Annual memebers).
